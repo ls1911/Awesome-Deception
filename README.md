@@ -5,6 +5,7 @@ An awesome list of resources on deception-based security with honeypots and hone
 > Note: This list will not be further maintained but it will stay available in this repository. Currently, I'm developing plans for a similar but more developer-centered resource with application intrusion detection and response as an overarching theme -> Suggestions and ideas are more than welcome. In the meantime, feel free to send along or suggest suitable deception content you would like to see in this list via pull requests. 
 
 # Contents
+- [GenAIPot] #genaipot
 - [Articles](#articles)
 - [Books](#books)
 - [Communities](#communities)
@@ -15,6 +16,10 @@ An awesome list of resources on deception-based security with honeypots and hone
 - [Podcasts](#podcasts)
 - [Presentations](#presentations)
 - [Videos](#videos)
+
+# GenAIPot
+[GenAIPot is the first A.I honeypot that emulates services and using Generative AI to do that in order to be more stealth.] (https://github.com/ls1911/GenAIPot)
+
 
 # Articles
 - [Valve used secret memory access “honeypot” to detect 40K Dota 2 cheaters](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/)
